@@ -51,13 +51,18 @@ source("PLOTALL.R")
 
 United States of America ![USA Emissions](USA_99-08_PM25Emissions.png)
 
-North East United States ![USA
-Emissions](FIPS-NEWYORK_99-08_PM25Emissions.png)
+North East United States ![BALTIMORE
+Emissions](FIPS-BALTIMORE_99-08_PM25Emissions.png)
 
-MidWest United States ![USA
+![NEWYORK Emissions](FIPS-NEWYORK_99-08_PM25Emissions.png)
+
+MidWest United States ![WAYNE
 Emissions](FIPS-WAYNE_99-08_PM25Emissions.png)
 
-South West United States ![USA
-Emissions](FIPS-SANDIEGO_99-08_PM25Emissions.png)
+South West United States [LOSANGELES
+Emissions](FIPS-LOSANGELES_99-08_PM25Emissions.png)
 
-Southern United States No plots yet :(-|=\<
+![SANDIEGO Emissions](FIPS-SANDIEGO_99-08_PM25Emissions.png)
+
+Southern United States ![CHARLESTON
+Emissions](FIPS-CHARLESTON_99-08_PM25Emissions.png)
