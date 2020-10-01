@@ -59,12 +59,18 @@ Emissions](FIPS-BALTIMORE_99-08_PM25Emissions.png)
 MidWest United States ![WAYNE
 Emissions](FIPS-WAYNE_99-08_PM25Emissions.png)
 
-South West United States ![LOSANGELES
-Emissions](FIPS-LOSANGELES_99-08_PM25Emissions.png)
+South West United States ![IMPERIAL
+Emissions](FIPS-IMPERIAL_99-08_PM25Emissions.png)
+
+![LOSANGELES Emissions](FIPS-LOSANGELES_99-08_PM25Emissions.png)
 
 ![ORANGE Emissions](FIPS-ORANGE_99-08_PM25Emissions.png)
 
+![RIVERSIDE Emissions](FIPS-RIVERSIDE_99-08_PM25Emissions.png)
+
 ![SANDIEGO Emissions](FIPS-SANDIEGO_99-08_PM25Emissions.png)
+
+![SANBERNARDINO Emissions](FIPS-SBERNARDINO_99-08_PM25Emissions.png)
 
 Southern United States ![CHARLESTON
 Emissions](FIPS-CHARLESTON_99-08_PM25Emissions.png)
