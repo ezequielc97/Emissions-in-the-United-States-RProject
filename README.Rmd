@@ -56,18 +56,32 @@ United States of America
 
 
 North East United States
-![USA Emissions](FIPS-NEWYORK_99-08_PM25Emissions.png)
+![BALTIMORE Emissions](FIPS-BALTIMORE_99-08_PM25Emissions.png)
+
+![NEWYORK Emissions](FIPS-NEWYORK_99-08_PM25Emissions.png)
 
 
 MidWest United States
-![USA Emissions](FIPS-WAYNE_99-08_PM25Emissions.png)
+![WAYNE Emissions](FIPS-WAYNE_99-08_PM25Emissions.png)
 
 
 South West United States
-![USA Emissions](FIPS-SANDIEGO_99-08_PM25Emissions.png)
+![HARRIS Emissions](FIPS-HARRIS_99-08_PM25Emissions.png)
+
+![IMPERIAL Emissions](FIPS-IMPERIAL_99-08_PM25Emissions.png)
+
+![LOSANGELES Emissions](FIPS-LOSANGELES_99-08_PM25Emissions.png)
+
+![ORANGE Emissions](FIPS-ORANGE_99-08_PM25Emissions.png)
+
+![RIVERSIDE Emissions](FIPS-RIVERSIDE_99-08_PM25Emissions.png)
+
+![SANDIEGO Emissions](FIPS-SANDIEGO_99-08_PM25Emissions.png)
+
+![SANBERNARDINO Emissions](FIPS-SBERNARDINO_99-08_PM25Emissions.png)
 
 
 Southern United States
-No plots yet :(-|=<
+![CHARLESTON Emissions](FIPS-CHARLESTON_99-08_PM25Emissions.png)
 
 
