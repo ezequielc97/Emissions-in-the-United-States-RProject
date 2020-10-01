@@ -59,8 +59,10 @@ Emissions](FIPS-BALTIMORE_99-08_PM25Emissions.png)
 MidWest United States ![WAYNE
 Emissions](FIPS-WAYNE_99-08_PM25Emissions.png)
 
-South West United States ![IMPERIAL
-Emissions](FIPS-IMPERIAL_99-08_PM25Emissions.png)
+South West United States ![HARRIS
+Emissions](FIPS-HARRIS_99-08_PM25Emissions.png)
+
+![IMPERIAL Emissions](FIPS-IMPERIAL_99-08_PM25Emissions.png)
 
 ![LOSANGELES Emissions](FIPS-LOSANGELES_99-08_PM25Emissions.png)
 
