@@ -5,8 +5,10 @@ Ezequiel Contreras
 
 # Emissions-in-the-United-States-RProject
 
-Plotting pollutant emissions in the.United States using EPA’s National
-Emissions Inventory Data (1999-2008)
+Plotting pollutant emissions in the.United States using EPA’s
+
+  - National Emissions Inventory Data (1999-2008)
+  - National Emissions Inventory Data (2017)
 
 ##### Introduction
 
@@ -26,6 +28,9 @@ The data used for this project can be found here:
   - Alternatively, data can be downloaded here:
     [exdata\_data\_NEI\_data.zip](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
     \[29Mb\]
+
+[National Emissions Inventory
+Data, 2017](https://enviro.epa.gov/facts/nei/index.html)
 
 Read more about the data here:
 
@@ -61,18 +66,27 @@ source("PLOTALL.R")
 
 ##### Plots
 
-\#United States of America ![USA Emissions](USA_99-08_PM25Emissions.png)
+##### United States of America
 
-\#North East United States ![BALTIMORE
-Emissions](FIPS-BALTIMORE_99-08_PM25Emissions.png)
+![USA Emissions](USA_99-08_PM25Emissions.png)
+
+##### Southern California Counties in 2017
+
+![SOCAL County Emissions](2017-SOCAL-PM25Emissions.png)
+
+##### North East United States
+
+![BALTIMORE Emissions](FIPS-BALTIMORE_99-08_PM25Emissions.png)
 
 ![NEWYORK Emissions](FIPS-NEWYORK_99-08_PM25Emissions.png)
 
-\#MidWest United States ![WAYNE
-Emissions](FIPS-WAYNE_99-08_PM25Emissions.png)
+##### MidWest United States
 
-\#South West United States ![HARRIS
-Emissions](FIPS-HARRIS_99-08_PM25Emissions.png)
+![WAYNE Emissions](FIPS-WAYNE_99-08_PM25Emissions.png)
+
+##### South West United States
+
+![HARRIS Emissions](FIPS-HARRIS_99-08_PM25Emissions.png)
 
 ![IMPERIAL Emissions](FIPS-IMPERIAL_99-08_PM25Emissions.png)
 
@@ -86,5 +100,6 @@ Emissions](FIPS-HARRIS_99-08_PM25Emissions.png)
 
 ![SANBERNARDINO Emissions](FIPS-SBERNARDINO_99-08_PM25Emissions.png)
 
-\#South United States ![CHARLESTON
-Emissions](FIPS-CHARLESTON_99-08_PM25Emissions.png)
+##### South United States
+
+![CHARLESTON Emissions](FIPS-CHARLESTON_99-08_PM25Emissions.png)
