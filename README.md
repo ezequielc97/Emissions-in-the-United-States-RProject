@@ -93,23 +93,30 @@ Emissions](PNG/NeighCountiesBarPlots/2017-CA-SJoseSFranOak-PM25Emissions.png)
 This project currently includes data that comes from the EPA’s National
 Emissions Inventory, 1999-2008 and 2017
 
-The data used for this project can be found on this repo: \* [National
-Emissions Inventory Data, 1999-2000 and 2017
-(partialNEI)](https://github.com/ezequielc97/Emissions-in-the-United-States-RProject/tree/master/National_Emissions_Inventory_Data)
+The data used for this project can be found on this repo:
+
+  - [National Emissions Inventory Data, 1999-2000 and 2017
+    (partialNEI)](https://github.com/ezequielc97/Emissions-in-the-United-States-RProject/tree/master/National_Emissions_Inventory_Data)
+  - [2017 National Emissions Inventory Complete Release Technical
+    Support
+    Document](https://github.com/ezequielc97/Emissions-in-the-United-States-RProject/tree/master/National_Emissions_Inventory_Data/nei2017_tsd_full_30apr2020.pdf)
 
 The full dataset can be accesses through the Environmental Protection
-Agency’s website here: [National Emissions Inventory
-Data](https://enviro.epa.gov/facts/nei/index.html)
+Agency’s website here:
+
+  - [National Emissions Inventory
+    Data](https://enviro.epa.gov/facts/nei/index.html)
 
 Read more about the NEI data on the EPA’s website here:
 
   - [EPA, National Emissions
     Inventory](https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei)
 
-  - This project orignially used data provided by Coursera class
-    “Exploratory Data Analysys” authorized by Johns Hopkins University
-    (<https://www.coursera.org/learn/exploratory-data-analysis>). This
-    set can be downloaded here:
-    [exdata\_data\_NEI\_data.zip](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
+Theis project orignially used data provided by Coursera class
+“Exploratory Data Analysys” authorized by Johns Hopkins University
+(<https://www.coursera.org/learn/exploratory-data-analysis>). This set
+can be downloaded here:
+
+  - [exdata\_data\_NEI\_data.zip](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
     \[29Mb\] (This data set is being replaced by data accessible through
     the EPA website)
