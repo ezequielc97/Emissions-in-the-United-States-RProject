@@ -37,7 +37,7 @@ source("Region9_Scripts/NeighCountiesBarPlots/2017-CA-SoCal-PM25.R")
 
 ##### To Do Next
 
-  - replace data set with data accessible from EPA website
+  - replace old 1999-2008 data set with data accessible from EPA website
   - build county-level PM2.5 scripts
   - update filetable
   - tidy up directory
@@ -112,10 +112,10 @@ Read more about the NEI data on the EPA’s website here:
   - [EPA, National Emissions
     Inventory](https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei)
 
-Theis project orignially used data provided by Coursera class
+This project orignially used data provided by Coursera class
 “Exploratory Data Analysys” authorized by Johns Hopkins University
-(<https://www.coursera.org/learn/exploratory-data-analysis>). This set
-can be downloaded here:
+(<https://www.coursera.org/learn/exploratory-data-analysis>). These data
+only cover 1999-2008. This set can be downloaded here:
 
   - [exdata\_data\_NEI\_data.zip](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
     \[29Mb\] (This data set is being replaced by data accessible through
