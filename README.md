@@ -62,17 +62,23 @@ Read more about the data here:
 ``` r
 source("LOADDATA.R")
 source("PLOTALL.R")
+source("Region9_Scripts/NeighCountiesBarPlots/2017-CA-SjoseSfranOak-PM25.R")
+source("Region9_Scripts/NeighCountiesBarPlots/2017-CA-SoCal-PM25.R")
 ```
 
 ##### Plots
 
-##### United States of America
+##### United States of America over the Years
 
-![USA Emissions](USA_99-08_PM25Emissions.png)
+![USA Emissions](USA_99-08_PM25Emissions.png) \#\#\#\#\# San Jose–San
+Francisco–Oakland, CA Combined Statistical Area in 2017
+\#\#\#\#\#![SoCal County
+Emissions](PNG/NeighCountiesBarPlots/2017-CA-SoCal-PM25Emissions.png)
 
 ##### Southern California Counties in 2017
 
-![SOCAL County Emissions](2017-SOCAL-PM25Emissions.png)
+![SoCal County
+Emissions](PNG/NeighCountiesBarPlots/2017-CA-SJoseSFranOak-PM25Emissions.png)
 
 ##### North East United States
 
