@@ -39,10 +39,12 @@ source("Region9_Scripts/NeighCountiesBarPlots/2017-CA-SoCal-PM25.R")
 
 ##### To Do Next #####
 
-- replace data set with most extensive and updated data from EPA
+- replace data set with data accessible from EPA website
 - build county-level PM2.5 scripts
 - update filetable
 - tidy up directory
+- create pages for individual states, counties
+- plot emissions over time 1999-2017
 
 
 ##### Plots #####
